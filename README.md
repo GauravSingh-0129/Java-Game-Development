@@ -1,5 +1,5 @@
 # Java-Game-Development
-A basic game constructed using Eclipse Software on Java Platform. The idea behind this is to simply practice programming and learn more about different packages and real real-life applicatoins of Data Structures.
+A basic game constructed using Eclipse Software on Java Platform. The idea behind this is to simply practice programming and learn more about different packages and real-life applicatoins of Data Structures.
 
 ## Path to be followed
 Java_Game_New/bin/com/tutorial/main/
